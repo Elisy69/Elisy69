@@ -6,10 +6,12 @@
     <a href="https://www.linkedin.com/in/elisei-strashevskii-5ab82a15b/">LinkedIn</a>
   </samp>
 </p>
-<samp align="center">
+<p align="center">
+<samp>
   Hi, I'm a frontend developer, currently living in Moscow.<br/><br />
-  Besides programming I enjoy video games. I also love to travel as well as learning history and languages. <br /> <br />
+  Besides programming I enjoy video games, travelling as well as learning history and languages. <br /> <br />
 </samp>
+</p>
 <p align="center">
   <samp>
     My favorite projects: <br /> <br />
