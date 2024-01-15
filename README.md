@@ -19,7 +19,7 @@
   <samp>
     💰 <a href="https://custom-budget-app.netlify.app">Budget App</a> |
     📅 <a href="https://custom-work-calendar.netlify.app">Calendar App</a> |
-    ⚽ <a href="https://github.com/Elisy69/football_sim">Football Sim</a> |
+    ⚽ <a href="https://github.com/Elisy69/football_sim">Football Sim</a>
   </samp>
 </p>
 </div>
